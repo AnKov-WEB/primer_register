@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "350957701358",
+    "firebase_url": "https://neww-bf864-default-rtdb.firebaseio.com",
+    "project_id": "neww-bf864",
+    "storage_bucket": "neww-bf864.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:350957701358:android:8c504426996aa077240bff",
+        "android_client_info": {
+          "package_name": "com.example.madmeditation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "350957701358-op6u2jgfdek220tuf5k4lseh19urn9ng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4FrqnADnzy1LrpwVf9WaJHj_zHn3y9Ms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "350957701358-op6u2jgfdek220tuf5k4lseh19urn9ng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
